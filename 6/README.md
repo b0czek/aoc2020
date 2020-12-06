@@ -1,0 +1,1 @@
+just compile and run with `dotnet run --project PuzzleSolver/`
